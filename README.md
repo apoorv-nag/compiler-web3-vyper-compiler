@@ -1,5 +1,7 @@
 # Vyper Compiler #
 
+This repository is used to run a vyper server run to compile the vyper scripts in Remix IDE.
+
 Version: 0.3.1
 
 # Installation #
